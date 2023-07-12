@@ -12,7 +12,7 @@
 <img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/kullaniciEkle.png">
 </p>
 <p align="center">
-<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/anaBolum.png">
+<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/anabolum.png">
 </p>
 ## Tüm Kurulum İşlemleri
 
