@@ -3,18 +3,17 @@
 ## Resimler
 
 <p align="center">
-  <img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/tree/main/ReadmeImages/firmaSecim.png">
+  <img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/firmaSecim.png">
 </p>
 <p align="center">
-  <img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/tree/main/ReadmeImages/kullaniciGirisi.png">
+  <img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/kullaniciGirisi.png">
 </p>
 <p align="center">
-<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/tree/main/ReadmeImages/kullaniciEkle.png">
+<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/kullaniciEkle.png">
 </p>
 <p align="center">
-<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/tree/main/ReadmeImages/anaBolum.png">
+<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/anaBolum.png">
 </p>
-
 ## Tüm Kurulum İşlemleri
 
 ### Ön Gereksinimler
@@ -29,7 +28,7 @@
 ### Kurulum
 * Öncelikle arduino uno kartınızın ve rfid kartınızın bağlantı noktalarını birbirine bağlayın. Resim aşağıdadır;
 <p align="center">
-<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/tree/main/ReadmeImages/arduino_pin_yerleri.jpg">
+<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/arduino_pin_yerleri.jpg">
 </p>
 * Sonra Arduino IDE yardımı ile .ino dosyasındaki kodları arduino'ya aktarın.
 * Arduino kartınızı kendi güç kablosu ile bilgisayarınıza bağlayın.
