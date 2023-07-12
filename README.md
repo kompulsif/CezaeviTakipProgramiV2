@@ -27,15 +27,15 @@
 * Ve CH340 Driver kurulu olmalıdır
 
 ### Kurulum
-<p align="center">
-<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/arduino_pin_yerleri.jpg">
-</p>
 * Öncelikle arduino uno kartınızın ve rfid kartınızın bağlantı noktalarını birbirine bağlayın. Resim aşağıdadır
 * Sonra Arduino IDE yardımı ile .ino dosyasındaki kodları arduino'ya aktarın.
 * Arduino kartınızı kendi güç kablosu ile bilgisayarınıza bağlayın.
 * MSSQL Server ile verilen .sql dosyasındaki kodları çalıştırın ve veritabanınızı oluşturun.
 * Sonra da direkt programı verdiğim kullanıcı adı ve parola bilgileri ile açın.
 * Program firma seçiminizden sonra COM Port bilgilerini alacaktır, arduino'nun çalıştığı com port bilgisini seçin ve giriş yapabilirsiniz.
+<p align="center">
+<img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/arduino_pin_yerleri.jpg">
+</p>
 
 ## Özellikleri
 * RFID özelliği sayesinde rfid kart vb. kartlar ile giriş sağlanabilir
