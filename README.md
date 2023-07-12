@@ -27,11 +27,10 @@
 * Ve CH340 Driver kurulu olmalıdır
 
 ### Kurulum
-
-* Öncelikle arduino uno kartınızın ve rfid kartınızın bağlantı noktalarını birbirine bağlayın. Resim aşağıdadır;
-* <p align="center">
+<p align="center">
 <img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/arduino_pin_yerleri.jpg">
 </p>
+* Öncelikle arduino uno kartınızın ve rfid kartınızın bağlantı noktalarını birbirine bağlayın. Resim aşağıdadır
 * Sonra Arduino IDE yardımı ile .ino dosyasındaki kodları arduino'ya aktarın.
 * Arduino kartınızı kendi güç kablosu ile bilgisayarınıza bağlayın.
 * MSSQL Server ile verilen .sql dosyasındaki kodları çalıştırın ve veritabanınızı oluşturun.
