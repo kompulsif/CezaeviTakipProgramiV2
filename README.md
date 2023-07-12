@@ -27,8 +27,9 @@
 * Ve CH340 Driver kurulu olmalıdır
 
 ### Kurulum
+
 * Öncelikle arduino uno kartınızın ve rfid kartınızın bağlantı noktalarını birbirine bağlayın. Resim aşağıdadır;
-<p align="center">
+* <p align="center">
 <img src="https://github.com/kompulsif/CezaeviTakipProgramiV2/blob/main/ReadmeImages/arduino_pin_yerleri.jpg">
 </p>
 * Sonra Arduino IDE yardımı ile .ino dosyasındaki kodları arduino'ya aktarın.
